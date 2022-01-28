@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codaya007&label=Profile%20views&color=0e75b6&style=flat" alt="Codaya007" /> </p>
+
 ### Hola, Soy Viviana 👋 :ecuador:
 #### Full Stack Developer && Estudiante de Ingeniería en Ciencias de la Computación
 <!--
