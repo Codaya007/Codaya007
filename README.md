@@ -56,6 +56,27 @@ Gracias a mi formación especializada, considero que estoy lista para formar par
       Se han implementado funcionalidades de filtrado, búsqueda, ordenamiento y creación de actividades.
     </p>
   </li>
+  <li>
+    <a href = "https://ecommerce-minimarket-yerik.vercel.app">Ecommerce Yerick</a>
+    <p>
+      Proyecto Final desarrollado para la asignatura de Programación Orientada a Objetos del segundo ciclo de Ingeniería en Ciencias de la Computación, se trata de un Single Page Application que me permite la gestión de una tienda de comestibles. Ha sido elaborada en pares junto con <a href = "https://github.com/AlekZ11">AlekZ11</a> y tiene las siguientes funcionalidades:<br>
+      </p>
+      <ul>
+        <li>
+          <h5>Usuario no registrado<h5/> 
+          <p>Ver todos los productos, filtrarlos por categoría, ordenarlos por nombre o precio de forma ascendente o descendente. Añadir productos al carrito, loguearse o registrarse en la tienda</p>
+        </li>
+        <li>
+          <h5>Usuario registrado:<h5/> 
+          <p>Adicional a las funcionalidades del usuario no registrado, puede realizar pedidos, realizar pagos con targeta de crédito, ver los datos de su perfil y todas las compras realizadas y eliminar pedidos.</p>
+        </li>
+        <li>
+          <h5>Usuario administrador:<h5/> 
+          <p>El administrador tiene tres paginas extras, una es para gestionar los productos y categorias, permitiendole crear un a nueva categoría, editarla o eliminarla. Añadir nuevos productos, eliminar o editar productos. La siguiente página es el de gestión de las ventas, en la cual puede ver todos los pedidos que se han realizado, cambiar el estatus de pendiente a entregado cuando esta haya sido enviado y eliminar un pedido que no ha sido pagado. Finalmente una página para administrar los usuarios, pudiendo ver todos los usuarios registrados en la aplicación y bloquearlos o desbloquearlos en caso de ser necesario.</p>
+        </li>
+       <ul/>
+          <p>Las tecnologías usadas son: MongoDB, Express, React y Node. js (MERN stack)</p>
+  </li>
 </ul>  
 
   ## Contacto
