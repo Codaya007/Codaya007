@@ -50,7 +50,7 @@ Gracias a mi formación especializada, considero que estoy lista para formar par
   ## Proyectos
 <ul> 
   <li>
-    <a href = "https://countries-app-v2.vercel.app">CountriesApp</a>
+    <a href = "https://countries-app-v2.vercel.app">CountriesApp</a> 
     <p>
       Proyecto Individual desarrollado para el Bootcamp de Desarollo web Fullstack, se trata de un Single Page Application con la temática de Countries.<br>
       Se han implementado funcionalidades de filtrado, búsqueda, ordenamiento y creación de actividades.
@@ -75,7 +75,8 @@ Gracias a mi formación especializada, considero que estoy lista para formar par
           <p>El administrador tiene tres paginas extras, una es para gestionar los productos y categorias, permitiendole crear un a nueva categoría, editarla o eliminarla. Añadir nuevos productos, eliminar o editar productos. La siguiente página es el de gestión de las ventas, en la cual puede ver todos los pedidos que se han realizado, cambiar el estatus de pendiente a entregado cuando esta haya sido enviado y eliminar un pedido que no ha sido pagado. Finalmente una página para administrar los usuarios, pudiendo ver todos los usuarios registrados en la aplicación y bloquearlos o desbloquearlos en caso de ser necesario.</p>
         </li>
        <ul/>
-          <p>Las tecnologías usadas son: MongoDB, Express, React y Node. js (MERN stack)</p>
+       <p>Las tecnologías usadas son: MongoDB, Express, React y Node. js (MERN stack)</p>
+       <a href="https://www.youtube.com/watch?v=YwTNu3_ihOc&t=922s">Video explicativo</a>
   </li>
 </ul>  
 
