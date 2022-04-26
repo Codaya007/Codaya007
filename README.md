@@ -26,11 +26,9 @@ Here are some ideas to get you started:
 <p>
  Soy Viviana y soy Full Stack Developer con orientación al backend. Fiel creyente de que la mentalidad abierta :brain: es la cualidad más importante de las personas. Amo la música, las mascotas, la luna, el color rosa, los memes y programar. :sparkling_heart: :sparkles:
 <br><br>
-Descubrí la programación cuando estuve cursando Ingeniería electromecánica y me encantó, por lo que decidí cambiarme de carrera. Actualmente estoy en el segundo ciclo de Ingeniería en Ciencias de la Computación en la Universidad Nacional de Loja y a la par estoy finalizando el Bootcamp de Desarrollo web Fullstack de Henry. Ha sido una locura todo lo que he aprendido en relativamente poco tiempo! Cada decisión que he tomado desde que decidí enfocarme en mi carrera profesional ha sido una experiencia muy enriquecedora, no he parado de crecer y cada día me siento más cerca de ser la persona en la que deseaba convertirme.
+Descubrí la programación cuando estuve cursando Ingeniería electromecánica y me encantó, por lo que decidí cambiarme de carrera. Actualmente estoy en el segundo ciclo de Ingeniería en Ciencias de la Computación en la Universidad Nacional de Loja y a la par finalicé el Bootcamp de Desarrollo web Fullstack de <a href="https://www.soyhenry.com">Henry</a>. Ha sido una locura todo lo que he aprendido en relativamente poco tiempo! Cada decisión que he tomado desde que decidí enfocarme en mi carrera profesional ha sido una experiencia muy enriquecedora, no he parado de crecer y cada día me siento más cerca de ser la persona en la que deseaba convertirme.
 <br><br>
-Considero que el trabajo en equipo es especialmente importante en el desarrollo de software por la rapidez y cantidad de cambios que se dan y es esta una de mis principales habilidades ya que disfruto compartiendo conocimientos con mis compañeros y resolviendo sus dudas, pues además es una buena forma de reforzar los conocimientos propios y explorar diferentes perspectivas.
-<br><br>
-Gracias a mi formación especializada, considero que estoy lista para formar parte de una empresa que coincida con mis valores y expectativas en la que pueda aportar valor y seguir desarrollándome profesionalmente a la par de continuar mis estudios universitarios.
+Considero que el trabajo en equipo es especialmente importante en el desarrollo de software por la rapidez y cantidad de cambios que se dan y es esta una de mis principales habilidades ya que disfruto compartiendo conocimientos con mis compañerxs, pues además es una buena forma de reforzar los conocimientos propios y explorar diferentes perspectivas.
 </p>
 
   ## Tecnologías
