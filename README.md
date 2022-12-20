@@ -84,4 +84,9 @@ Considero que el trabajo en equipo es especialmente importante en el desarrollo 
 <div> 
  <a href="https://www.linkedin.com/in/viviana-calva/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:vivicalvat007@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+    </div>
+    
+  <p> 
+    También puedes encontrarme en <a href="https://www.workana.com/freelancer/ad5d35c5dd68e59e53f81cb67fab451e" target="_blank"> Workana <img src="https://blog.workana.com/wp-content/uploads/2022/05/favicon.png" width="25"></a>
+  </p>
+  
